@@ -14,7 +14,7 @@ let songIndex = 0;
 
 songs = ['music/Djinee-lade-ft-m.i.mp3', 'music/Iyanya-Truly.mp3', 'music/Joeboy-All-For-You.mp3', 'music/Joeboy-Baby.mp3', 'music/Joeboy-Beginning.mp3', 'music/Johnny_Drille_Something_Better.mp3', 'music/Kiss Daniel-Poko.mp3', 'music/Kiss_Daniel_Laye.mp3', 'music/Major Lazer-Particular.mp3', 'music/Master-KG-Jerusalema-ft-Nomcebo.mp3', 'music/Mr Eazi-Surrender-ft-Simi.mp3', 'music/Ric-Hassani-Thunder-Fire-You.mp3', 'music/Roro-Chike.mp3',]; // object storing paths for audio objects
 thumbnails = ['images/Djinee.jpg', 'images/Iyanya.jpg', 'images/Joeboy.jpg', 'images/Joeboy.jpg', 'images/Joeboy.jpg', 'images/Johnny.jpg', 'images/Kiss Daniel.jpg', 'images/Kiss Daniel.jpg', 'images/Major Lazer.jpg', 'images/Master KG.jpg', 'images/Surrender.jpg', 'images/Ric.jpg', 'images/Chike.jpg']; // object storing paths for album covers and backgrounds
-songArtists = ['Djinee', 'Iyanya', 'Joeboy', 'Joeboy', 'Joeboy', 'Kiss_Daniel', 'Kiss_Daniel', 'Major Lazer', 'Master KG', 'Mr Eazi', 'Ric Hassani', 'Chike']; // object storing track artists
+songArtists = ['Djinee', 'Iyanya', 'Joeboy', 'Joeboy', 'Joeboy', 'Johnny Drille', 'Kiss_Daniel', 'Kiss_Daniel', 'Major Lazer', 'Master KG', 'Mr Eazi', 'Ric Hassani', 'Chike']; // object storing track artists
 songTitles = ["Lade", "Truly", "All For You", "Baby", "Beginning", "Something Better", "Poko", "Laye", "Particular", "Jerusalema", "Surrender", "Thunder Fire You", "Roro"]; // object storing track titles
 
 song.src = songs[songIndex];
